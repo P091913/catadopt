@@ -1,0 +1,17 @@
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Infrastructure/obj/Debug/net9.0/CatAdoption.Infrastructure.csproj.AssemblyReference.cache
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Infrastructure/obj/Debug/net9.0/CatAdoption.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Infrastructure/obj/Debug/net9.0/CatAdoption.Infrastructure.AssemblyInfoInputs.cache
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Infrastructure/obj/Debug/net9.0/CatAdoption.Infrastructure.AssemblyInfo.cs
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Infrastructure/obj/Debug/net9.0/CatAdoption.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Infrastructure/bin/Debug/net9.0/CatAdoption.Infrastructure.deps.json
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Infrastructure/bin/Debug/net9.0/CatAdoption.Infrastructure.dll
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Infrastructure/bin/Debug/net9.0/CatAdoption.Infrastructure.pdb
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Infrastructure/bin/Debug/net9.0/CatAdoption.Domain.dll
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Infrastructure/bin/Debug/net9.0/CatAdoption.Domain.pdb
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Infrastructure/obj/Debug/net9.0/CatAdopt.8A29DE6A.Up2Date
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Infrastructure/obj/Debug/net9.0/CatAdoption.Infrastructure.dll
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Infrastructure/obj/Debug/net9.0/refint/CatAdoption.Infrastructure.dll
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Infrastructure/obj/Debug/net9.0/CatAdoption.Infrastructure.pdb
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Infrastructure/obj/Debug/net9.0/ref/CatAdoption.Infrastructure.dll
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Infrastructure/bin/Debug/net9.0/CatAdoption.Infrastructure.runtimeconfig.json
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Infrastructure/obj/Debug/net9.0/CatAdoption.Infrastructure.genruntimeconfig.cache

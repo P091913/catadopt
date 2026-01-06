@@ -1,0 +1,11 @@
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Domain/bin/Debug/net9.0/CatAdoption.Domain.deps.json
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Domain/bin/Debug/net9.0/CatAdoption.Domain.dll
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Domain/bin/Debug/net9.0/CatAdoption.Domain.pdb
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Domain/obj/Debug/net9.0/CatAdoption.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Domain/obj/Debug/net9.0/CatAdoption.Domain.AssemblyInfoInputs.cache
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Domain/obj/Debug/net9.0/CatAdoption.Domain.AssemblyInfo.cs
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Domain/obj/Debug/net9.0/CatAdoption.Domain.csproj.CoreCompileInputs.cache
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Domain/obj/Debug/net9.0/CatAdoption.Domain.dll
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Domain/obj/Debug/net9.0/refint/CatAdoption.Domain.dll
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Domain/obj/Debug/net9.0/CatAdoption.Domain.pdb
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Domain/obj/Debug/net9.0/ref/CatAdoption.Domain.dll

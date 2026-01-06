@@ -1,0 +1,17 @@
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Application/bin/Debug/net9.0/CatAdoption.Application.deps.json
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Application/bin/Debug/net9.0/CatAdoption.Application.dll
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Application/bin/Debug/net9.0/CatAdoption.Application.pdb
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Application/bin/Debug/net9.0/CatAdoption.Domain.dll
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Application/bin/Debug/net9.0/CatAdoption.Infrastructure.dll
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Application/bin/Debug/net9.0/CatAdoption.Domain.pdb
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Application/bin/Debug/net9.0/CatAdoption.Infrastructure.pdb
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Application/obj/Debug/net9.0/CatAdoption.Application.csproj.AssemblyReference.cache
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Application/obj/Debug/net9.0/CatAdoption.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Application/obj/Debug/net9.0/CatAdoption.Application.AssemblyInfoInputs.cache
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Application/obj/Debug/net9.0/CatAdoption.Application.AssemblyInfo.cs
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Application/obj/Debug/net9.0/CatAdoption.Application.csproj.CoreCompileInputs.cache
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Application/obj/Debug/net9.0/CatAdopt.46FF5E92.Up2Date
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Application/obj/Debug/net9.0/CatAdoption.Application.dll
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Application/obj/Debug/net9.0/refint/CatAdoption.Application.dll
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Application/obj/Debug/net9.0/CatAdoption.Application.pdb
+/Users/plate/RiderProjects/CatAdoption/CatAdoption.Application/obj/Debug/net9.0/ref/CatAdoption.Application.dll
